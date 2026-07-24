@@ -1,8 +1,8 @@
-# WaterVault 隱私政策
+# Drople 隱私政策
 
 **最後更新：2026 年 7 月 21 日**
 
-感謝你使用 WaterVault。本隱私政策旨在說明我們如何處理你的資訊。
+感謝你使用 Drople。本隱私政策旨在說明我們如何處理你的資訊。
 
 ## 資訊收集與使用
 
@@ -15,7 +15,7 @@
 
 ### 蘋果健康（HealthKit）
 
-本應用在獲得你的明確授權後，可以將飲水記錄和咖啡因攝取寫入 Apple Health。你可以隨時在 iOS 的「設定 → 健康 → 資料存取與裝置」中管理或撤銷 WaterVault 對 HealthKit 的存取權限。
+本應用在獲得你的明確授權後，可以將飲水記錄和咖啡因攝取寫入 Apple Health。你可以隨時在 iOS 的「設定 → 健康 → 資料存取與裝置」中管理或撤銷 Drople 對 HealthKit 的存取權限。
 
 **本應用永遠不會將 HealthKit 資料用於廣告或分析，也不會分享給第三方。**
 
@@ -59,8 +59,7 @@
 ## 聯絡我們
 
 如有疑問，請聯絡我們：
-- **電子郵件**：jun@example.com
-- **GitHub Issues**：[WaterVault](https://github.com/PotatoGames/WaterVault)
+- **電子郵件**：potatogamedev0702@gmail.com
 
 ---
 

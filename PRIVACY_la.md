@@ -1,8 +1,8 @@
-# WaterVault Politica Secreti
+# Drople Politica Secreti
 
 **Novissima correctio: 21 Iulii 2026**
 
-Gratias tibi agimus quod WaterVault uteris. Haec politica secreti explicat quomodo tuas informationes tractamus.
+Gratias tibi agimus quod Drople uteris. Haec politica secreti explicat quomodo tuas informationes tractamus.
 
 ## Collectio et usus informationum
 
@@ -15,7 +15,7 @@ Haec applicatio **data personalia in servitores externos non colligit vel imponi
 
 ### Apple Health (HealthKit)
 
-Explicita tua permissio, WaterVault potest inscriptiones bibendi et coffeini sumptionis in Apple Health scribere. Accessum HealthKit administrare vel revocare potes in iOS: «Ordinationes → Salus → Aditus datorum et instrumentorum».
+Explicita tua permissio, Drople potest inscriptiones bibendi et coffeini sumptionis in Apple Health scribere. Accessum HealthKit administrare vel revocare potes in iOS: «Ordinationes → Salus → Aditus datorum et instrumentorum».
 
 **Haec applicatio numquam datis HealthKit ad vendendum vel analyticam utetur, neque ea cum tertiis partibus communicabit.**
 
@@ -46,7 +46,7 @@ Si iPhone et Apple Watch uteris, bibendi inscriptiones directe inter instrumenta
 Omnia data tua delere potes his modis:
 1. «Ordinationes → Data → Omnia data delere»
 2. Applicationem removendo
-3. Inscriptiones WaterVault in Salus app delendo
+3. Inscriptiones Drople in Salus app delendo
 
 ## Tertiae partis servitia
 
@@ -59,8 +59,7 @@ Haec servitia sub politica secreti Apple propria sunt.
 ## Contactus
 
 Si quaestiones habes, nos continge:
-- **Email**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **Email**: potatogamedev0702@gmail.com
 
 ---
 

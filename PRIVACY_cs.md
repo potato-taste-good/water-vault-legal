@@ -1,8 +1,8 @@
-# Zásady ochrany soukromí WaterVault
+# Zásady ochrany soukromí Drople
 
 **Poslední aktualizace: 21. července 2026**
 
-Děkujeme, že používáte WaterVault. Tyto zásady ochrany soukromí vysvětlují, jak nakládáme s vašimi údaji.
+Děkujeme, že používáte Drople. Tyto zásady ochrany soukromí vysvětlují, jak nakládáme s vašimi údaji.
 
 ## Shromažďování a používání informací
 
@@ -15,7 +15,7 @@ Tato aplikace **neshromažďuje ani neodesílá osobní údaje na externí serve
 
 ### Apple Health (HealthKit)
 
-S vaším výslovným souhlasem může WaterVault zapisovat záznamy o pití a příjmu kofeinu do Apple Health. Přístup k HealthKit můžete kdykoli spravovat v iOS: «Nastavení → Zdraví → Přístup k datům a zařízením».
+S vaším výslovným souhlasem může Drople zapisovat záznamy o pití a příjmu kofeinu do Apple Health. Přístup k HealthKit můžete kdykoli spravovat v iOS: «Nastavení → Zdraví → Přístup k datům a zařízením».
 
 **Tato aplikace nikdy nepoužije data HealthKit pro reklamu nebo analýzu a nesdílí je s třetími stranami.**
 
@@ -46,7 +46,7 @@ Pokud používáte iPhone i Apple Watch, záznamy pití se přenášejí přímo
 Všechna svá data můžete smazat následujícími způsoby:
 1. «Nastavení → Data → Vymazat všechna data»
 2. Odinstalováním aplikace
-3. Smazáním záznamů WaterVault v aplikaci Zdraví
+3. Smazáním záznamů Drople v aplikaci Zdraví
 
 ## Služby třetích stran
 
@@ -59,8 +59,7 @@ Tyto služby podléhají vlastním zásadám ochrany soukromí společnosti Appl
 ## Kontakt
 
 Máte-li dotazy, kontaktujte nás:
-- **E-mail**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **E-mail**: potatogamedev0702@gmail.com
 
 ---
 

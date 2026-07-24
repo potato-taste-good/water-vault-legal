@@ -1,8 +1,8 @@
-# Dasar Privasi WaterVault
+# Dasar Privasi Drople
 
 **Kemas kini terakhir: 21 Julai 2026**
 
-Terima kasih kerana menggunakan WaterVault. Dasar privasi ini menerangkan cara kami mengendalikan maklumat anda.
+Terima kasih kerana menggunakan Drople. Dasar privasi ini menerangkan cara kami mengendalikan maklumat anda.
 
 ## Pengumpulan dan penggunaan maklumat
 
@@ -15,7 +15,7 @@ Aplikasi ini **tidak mengumpul atau memuat naik data peribadi ke pelayan luaran*
 
 ### Apple Health (HealthKit)
 
-Dengan kebenaran jelas anda, WaterVault boleh menulis rekod minuman dan pengambilan kafein ke Apple Health. Anda boleh mengurus atau menarik balik akses HealthKit pada bila-bila masa dalam iOS: «Tetapan → Kesihatan → Akses data & peranti».
+Dengan kebenaran jelas anda, Drople boleh menulis rekod minuman dan pengambilan kafein ke Apple Health. Anda boleh mengurus atau menarik balik akses HealthKit pada bila-bila masa dalam iOS: «Tetapan → Kesihatan → Akses data & peranti».
 
 **Aplikasi ini tidak akan sekali-kali menggunakan data HealthKit untuk iklan atau analisis, dan tidak akan berkongsi dengan pihak ketiga.**
 
@@ -46,7 +46,7 @@ Jika anda menggunakan iPhone dan Apple Watch, rekod minuman dipindahkan terus an
 Anda boleh memadam semua data dengan cara berikut:
 1. «Tetapan → Data → Padam semua data»
 2. Menyahpasang aplikasi
-3. Memadam entri WaterVault dalam aplikasi Kesihatan
+3. Memadam entri Drople dalam aplikasi Kesihatan
 
 ## Perkhidmatan pihak ketiga
 
@@ -59,8 +59,7 @@ Perkhidmatan ini tertakluk kepada dasar privasi Apple sendiri.
 ## Hubungi
 
 Jika anda mempunyai soalan, sila hubungi kami:
-- **E-mel**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **E-mel**: potatogamedev0702@gmail.com
 
 ---
 

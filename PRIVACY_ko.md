@@ -1,8 +1,8 @@
-# WaterVault 개인정보 처리방침
+# Drople 개인정보 처리방침
 
 **최종 업데이트: 2026년 7월 21일**
 
-WaterVault를 이용해 주셔서 감사합니다. 본 개인정보 처리방침은 당사가 귀하의 정보를 처리하는 방법을 설명합니다.
+Drople를 이용해 주셔서 감사합니다. 본 개인정보 처리방침은 당사가 귀하의 정보를 처리하는 방법을 설명합니다.
 
 ## 정보 수집 및 이용
 
@@ -15,7 +15,7 @@ WaterVault를 이용해 주셔서 감사합니다. 본 개인정보 처리방침
 
 ### Apple Health(HealthKit)
 
-귀하의 명시적 동의를 얻어 WaterVault는 음수 기록과 카페인 섭취를 Apple Health에 쓸 수 있습니다. iOS의 「설정 → 건강 → 데이터 접근 및 기기」에서 언제든지 HealthKit 접근 권한을 관리하거나 철회할 수 있습니다.
+귀하의 명시적 동의를 얻어 Drople는 음수 기록과 카페인 섭취를 Apple Health에 쓸 수 있습니다. iOS의 「설정 → 건강 → 데이터 접근 및 기기」에서 언제든지 HealthKit 접근 권한을 관리하거나 철회할 수 있습니다.
 
 **본 앱은 HealthKit 데이터를 광고나 분석에 사용하거나 제3자와 공유하지 않습니다.**
 
@@ -46,7 +46,7 @@ iPhone과 Apple Watch를 모두 사용하는 경우, 음수 기록은 Apple의 W
 다음 방법으로 모든 데이터를 삭제할 수 있습니다:
 1. 「설정 → 데이터 → 모든 데이터 지우기」
 2. 앱 제거
-3. 「건강」앱에서 WaterVault 데이터 삭제
+3. 「건강」앱에서 Drople 데이터 삭제
 
 ## 제3자 서비스
 
@@ -59,8 +59,7 @@ iPhone과 Apple Watch를 모두 사용하는 경우, 음수 기록은 Apple의 W
 ## 문의하기
 
 문의 사항이 있으면 아래로 연락해 주세요:
-- **이메일**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **이메일**: potatogamedev0702@gmail.com
 
 ---
 

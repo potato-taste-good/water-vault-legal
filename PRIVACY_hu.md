@@ -1,8 +1,8 @@
-# A WaterVault adatvédelmi irányelve
+# A Drople adatvédelmi irányelve
 
 **Utolsó frissítés: 2026. július 21.**
 
-Köszönjük, hogy a WaterVaultot használja. Ez az adatvédelmi irányelv elmagyarázza, hogyan kezeljük az Ön adatait.
+Köszönjük, hogy a Dropleot használja. Ez az adatvédelmi irányelv elmagyarázza, hogyan kezeljük az Ön adatait.
 
 ## Információk gyűjtése és felhasználása
 
@@ -15,7 +15,7 @@ Ez az alkalmazás **nem gyűjt vagy tölt fel személyes adatokat külső szerve
 
 ### Apple Health (HealthKit)
 
-Az Ön kifejezett hozzájárulásával a WaterVault írhatja az ivási rekordokat és a koffeinbevitelt az Apple Health alkalmazásba. A HealthKit hozzáférést bármikor kezelheti iOS-ben: «Beállítások → Egészség → Adathozzáférés és eszközök».
+Az Ön kifejezett hozzájárulásával a Drople írhatja az ivási rekordokat és a koffeinbevitelt az Apple Health alkalmazásba. A HealthKit hozzáférést bármikor kezelheti iOS-ben: «Beállítások → Egészség → Adathozzáférés és eszközök».
 
 **Ez az alkalmazás soha nem használja a HealthKit adatokat reklámozásra vagy elemzésre, és nem osztja meg azokat harmadik felekkel.**
 
@@ -46,7 +46,7 @@ Ha iPhone-t és Apple Watch-ot is használ, az ivási rekordok közvetlenül az 
 Az összes adatát a következő módokon törölheti:
 1. «Beállítások → Adatok → Összes adat törlése»
 2. Az alkalmazás eltávolításával
-3. A WaterVault bejegyzések törlésével az Egészség alkalmazásban
+3. A Drople bejegyzések törlésével az Egészség alkalmazásban
 
 ## Harmadik fél szolgáltatásai
 
@@ -59,8 +59,7 @@ Ezek a szolgáltatások az Apple saját adatvédelmi irányelve alá tartoznak.
 ## Kapcsolat
 
 Ha kérdése van, lépjen kapcsolatba velünk:
-- **E-mail**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **E-mail**: potatogamedev0702@gmail.com
 
 ---
 

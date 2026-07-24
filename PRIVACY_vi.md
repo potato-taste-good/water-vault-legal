@@ -1,8 +1,8 @@
-# Chính sách quyền riêng tư của WaterVault
+# Chính sách quyền riêng tư của Drople
 
 **Cập nhật lần cuối: 21 tháng 7 năm 2026**
 
-Cảm ơn bạn đã sử dụng WaterVault. Chính sách quyền riêng tư này giải thích cách chúng tôi xử lý thông tin của bạn.
+Cảm ơn bạn đã sử dụng Drople. Chính sách quyền riêng tư này giải thích cách chúng tôi xử lý thông tin của bạn.
 
 ## Thu thập và sử dụng thông tin
 
@@ -15,7 +15,7 @@ Cảm ơn bạn đã sử dụng WaterVault. Chính sách quyền riêng tư nà
 
 ### Apple Health (HealthKit)
 
-Với sự cho phép rõ ràng của bạn, WaterVault có thể ghi dữ liệu uống nước và lượng caffeine vào Apple Health. Bạn có thể quản lý hoặc thu hồi quyền truy cập HealthKit bất kỳ lúc nào trong iOS: «Cài đặt → Sức khỏe → Quyền truy cập dữ liệu & thiết bị».
+Với sự cho phép rõ ràng của bạn, Drople có thể ghi dữ liệu uống nước và lượng caffeine vào Apple Health. Bạn có thể quản lý hoặc thu hồi quyền truy cập HealthKit bất kỳ lúc nào trong iOS: «Cài đặt → Sức khỏe → Quyền truy cập dữ liệu & thiết bị».
 
 **Ứng dụng này sẽ không bao giờ sử dụng dữ liệu HealthKit cho quảng cáo hoặc phân tích và không chia sẻ với bên thứ ba.**
 
@@ -46,7 +46,7 @@ Nếu bạn sử dụng cả iPhone và Apple Watch, ghi chép uống nước đ
 Bạn có thể xóa tất cả dữ liệu bằng các cách sau:
 1. «Cài đặt → Dữ liệu → Xóa tất cả dữ liệu»
 2. Gỡ cài đặt ứng dụng
-3. Xóa các mục WaterVault trong ứng dụng Sức khỏe
+3. Xóa các mục Drople trong ứng dụng Sức khỏe
 
 ## Dịch vụ bên thứ ba
 
@@ -59,8 +59,7 @@ Các dịch vụ này tuân theo chính sách quyền riêng tư của Apple.
 ## Liên hệ
 
 Nếu bạn có thắc mắc, vui lòng liên hệ với chúng tôi:
-- **Email**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **Email**: potatogamedev0702@gmail.com
 
 ---
 

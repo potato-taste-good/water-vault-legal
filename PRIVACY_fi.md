@@ -1,8 +1,8 @@
-# WaterVaultin tietosuojakäytäntö
+# Droplein tietosuojakäytäntö
 
 **Viimeksi päivitetty: 21. heinäkuuta 2026**
 
-Kiitos, että käytät WaterVaultia. Tämä tietosuojakäytäntö selittää, miten käsittelemme tietojasi.
+Kiitos, että käytät Dropleia. Tämä tietosuojakäytäntö selittää, miten käsittelemme tietojasi.
 
 ## Tietojen kerääminen ja käyttö
 
@@ -15,7 +15,7 @@ Tämä sovellus **ei kerää tai lähetä henkilötietoja ulkoisille palvelimill
 
 ### Apple Health (HealthKit)
 
-Nimenomaisella luvallasi WaterVault voi kirjoittaa juoma- ja kofeiinimerkintöjä Apple Healthiin. Voit hallita tai peruuttaa HealthKit-käyttöoikeutta iOS:n asetuksissa: «Asetukset → Terveys → Tietojen käyttöoikeus ja laitteet».
+Nimenomaisella luvallasi Drople voi kirjoittaa juoma- ja kofeiinimerkintöjä Apple Healthiin. Voit hallita tai peruuttaa HealthKit-käyttöoikeutta iOS:n asetuksissa: «Asetukset → Terveys → Tietojen käyttöoikeus ja laitteet».
 
 **Tämä sovellus ei koskaan käytä HealthKit-tietoja mainontaan tai analytiikkaan, eikä jaa niitä kolmansille osapuolille.**
 
@@ -46,7 +46,7 @@ Jos käytät sekä iPhonea että Apple Watchia, juomakirjaukset siirtyvät suora
 Voit poistaa kaikki tietosi seuraavilla tavoilla:
 1. «Asetukset → Tiedot → Tyhjennä kaikki tiedot»
 2. Poistamalla sovelluksen
-3. Poistamalla WaterVault-merkinnät Terveys-sovelluksesta
+3. Poistamalla Drople-merkinnät Terveys-sovelluksesta
 
 ## Kolmannen osapuolen palvelut
 
@@ -59,8 +59,7 @@ Nämä palvelut ovat Applen oman tietosuojakäytännön alaisia.
 ## Yhteystiedot
 
 Jos sinulla on kysyttävää, ota meihin yhteyttä:
-- **Sähköposti**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **Sähköposti**: potatogamedev0702@gmail.com
 
 ---
 

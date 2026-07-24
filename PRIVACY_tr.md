@@ -1,8 +1,8 @@
-# WaterVault Gizlilik Politikası
+# Drople Gizlilik Politikası
 
 **Son güncelleme: 21 Temmuz 2026**
 
-WaterVault'u kullandığınız için teşekkür ederiz. Bu gizlilik politikası, bilgilerinizi nasıl işlediğimizi açıklar.
+Drople'u kullandığınız için teşekkür ederiz. Bu gizlilik politikası, bilgilerinizi nasıl işlediğimizi açıklar.
 
 ## Bilgi toplama ve kullanma
 
@@ -15,7 +15,7 @@ Bu uygulama **kişisel verileri harici sunuculara toplamaz veya yüklemez**. Tü
 
 ### Apple Health (HealthKit)
 
-Açık izninizle WaterVault, su ve kafein tüketim kayıtlarını Apple Health'e yazabilir. iOS'ta «Ayarlar → Sağlık → Veri erişimi ve cihazlar» bölümünden HealthKit erişimini yönetebilir veya iptal edebilirsiniz.
+Açık izninizle Drople, su ve kafein tüketim kayıtlarını Apple Health'e yazabilir. iOS'ta «Ayarlar → Sağlık → Veri erişimi ve cihazlar» bölümünden HealthKit erişimini yönetebilir veya iptal edebilirsiniz.
 
 **Bu uygulama HealthKit verilerini asla reklam veya analiz için kullanmaz ve üçüncü taraflarla paylaşmaz.**
 
@@ -46,7 +46,7 @@ Hem iPhone hem de Apple Watch kullanıyorsanız, su kayıtları Apple'ın WatchC
 Tüm verilerinizi aşağıdaki yollarla silebilirsiniz:
 1. «Ayarlar → Veri → Tüm verileri sil»
 2. Uygulamayı kaldırarak
-3. Sağlık uygulamasındaki WaterVault girişlerini silerek
+3. Sağlık uygulamasındaki Drople girişlerini silerek
 
 ## Üçüncü taraf hizmetler
 
@@ -59,8 +59,7 @@ Bu hizmetler Apple'ın kendi gizlilik politikasına tabidir.
 ## İletişim
 
 Sorularınız varsa lütfen bizimle iletişime geçin:
-- **E-posta**: jun@example.com
-- **GitHub Issues**: [WaterVault](https://github.com/PotatoGames/WaterVault)
+- **E-posta**: potatogamedev0702@gmail.com
 
 ---
 
